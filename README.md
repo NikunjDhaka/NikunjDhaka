@@ -23,7 +23,7 @@ Hi, It's Nikunj !  :v:
 I would like to learn and teach others as much as I can. If you feel that I can help you in any way possible you can mail me at [@Nikunj ](dhakanikunj3@gmail.com) <BR>
 I will be very pleased to assist you with things.:information_desk_person:
 
-*Languages and Tools:*  
+*Languages and Tools:* 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
