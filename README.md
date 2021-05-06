@@ -18,7 +18,7 @@ Hi, It's Nikunj !  :v:
 - :dart: I am learning Data science and AI currently and improving my C++ skills.
 - :+1: These days I am making sure to contribute to open source as much as I can because we owe a lot to it.
 
-I would like to learn and teach others as much as I can. If you feel that I can help you in any way possible you can mail me at [@Nikunj ](mailto:dhakanikunj3@gmail.com) <BR>
+I would like to learn and teach others as much as I can. If you feel that I can help you in any way possible you can mail me at <a href="mailto:dhakanikunj3@gmail.com">dhakanikunj3@gmail.com</a> <BR>
 I will be very pleased to assist you with things.:information_desk_person:
 
 *Languages and Tools:* 
