@@ -1,10 +1,10 @@
 HELLO!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ======
-<[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://NikunjDhaka.github.io/portfolio/)](https://NikunjDhaka.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://NikunjDhaka.github.io/portfolio/)](https://NikunjDhaka.github.io/portfolio/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=NikunjDhaka&color=blue&logo=flat)
 [![Linkedin](https://img.shields.io/badge/NikunjDhaka-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/nikunj-dhaka-29b066170/)](https://www.linkedin.com/in/nikunj-dhaka-29b066170/)
 [![Instagram](https://img.shields.io/badge/NikunjDhaka-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/vsnikunjdhaka/)](https://www.instagram.com/vsnikunjdhaka/)
-<br />
+<br>
 
 Hi, It's Nikunj !  :v:
 -----------------------------------------------------------
