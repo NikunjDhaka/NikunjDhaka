@@ -14,7 +14,7 @@ Hi, It's Nikunj !  :v:
 
 ### Greetings of the day!! I am glad you're reading this.:sparkles:
 
-- :bowtie: I am a coding enthusiast and I am getting my hands dirty in various tech fields like Python, Machine learning Data science and C++.
+- :bowtie: I am a coding enthusiast and I am getting my hands dirty in various tech fields like Python, JAVA, Machine learning Data science and C++.
 - :dart: I am learning Data science and AI currently and improving my C++ skills.
 - :+1: These days I am making sure to contribute to open source as much as I can because we owe a lot to it.
 
