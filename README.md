@@ -14,8 +14,8 @@ Hi, It's Nikunj !  :v:
 
 ### Greetings of the day!! I am glad you're reading this.:sparkles:
 
-- :bowtie: I am a coding enthusiast and I am getting my hands dirty in various tech fields like Python, JAVA, Machine learning Data science and C++.
-- :dart: I am learning Data science and AI currently and improving my C++ skills.
+- :bowtie: I am a coding enthusiast and I am getting my hands dirty in various tech fields like Python, JAVA, Machine learning Data science.
+- :dart: I am learning Data science and ML currently and improving my skills.
 - :+1: These days I am making sure to contribute to open source as much as I can because we owe a lot to it.
 
 I would like to learn and teach others as much as I can. If you feel that I can help you in any way possible you can mail me at <a href="mailto:dhakanikunj3@gmail.com">dhakanikunj3@gmail.com</a> <BR>
