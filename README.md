@@ -6,7 +6,7 @@ HELLO!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wi
 [![Instagram](https://img.shields.io/badge/NikunjDhaka-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/vsnikunjdhaka/)](https://www.instagram.com/vsnikunjdhaka/)
 <br>
 
-Hi, It's Nikunj !  :v:
+Hi, It's Sonali !  :v:
 -----------------------------------------------------------
 <img align="right" alt="GIF" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" width="300" height="280"/>
   
