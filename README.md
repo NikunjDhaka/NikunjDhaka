@@ -6,7 +6,7 @@ HELLO!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wi
 [![Instagram](https://img.shields.io/badge/NikunjDhaka-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/vsnikunjdhaka/)](https://www.instagram.com/vsnikunjdhaka/)
 <br>
 
-Hi, It's Sonali !  :v:
+Hi, It's Nikunj !  :v:
 -----------------------------------------------------------
 <img align="right" alt="GIF" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" width="300" height="280"/>
   
@@ -14,11 +14,11 @@ Hi, It's Sonali !  :v:
 
 ### Greetings of the day!! I am glad you're reading this.:sparkles:
 
-- :bowtie: I am a coding enthusiast and I am getting my hands dirty in various tech fields like Python, JAVA, Machine learning Data science.
-- :dart: I am learning Data science and ML currently and improving my skills.
+- :bowtie: I am a coding enthusiast and I am getting my hands dirty in various tech fields like Python and its liub, JAVA, Machine learning Data science.
+- :dart: Skilled Data Scientist and ML engineer currently and improving my skills.
 - :+1: These days I am making sure to contribute to open source as much as I can because we owe a lot to it.
 
-I would like to learn and teach others as much as I can. If you feel that I can help you in any way possible you can mail me at <a href="mailto:dhakanikunj3@gmail.com">Sonalisingh011195@gmail.com</a> <BR>
+I would like to learn and teach others as much as I can. If you feel that I can help you in any way possible you can mail me at <a href="mailto:dhakanikunj3@gmail.com">dhakanikunj3@gmail.com</a> <BR>
 I will be very pleased to assist you with things.:information_desk_person:
 
 *Languages and Tools:* 
